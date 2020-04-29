@@ -1,0 +1,3 @@
+printvalue= 100;
+printvalue2= 200;
+printvalue3= 300;
