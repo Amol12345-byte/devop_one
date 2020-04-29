@@ -6,3 +6,5 @@ printvalue= 400;
 this is new line added
 
 this is 2 new line
+
+url=http://192.168.1.100:8080/
